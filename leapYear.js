@@ -7,4 +7,4 @@ function leapYear(year){
     }
 }
 
-leapYear(2022);
+leapYear(2024);
